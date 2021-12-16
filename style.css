@@ -1,0 +1,31 @@
+*{
+    margin: 0%;
+    
+}
+
+#head{
+    background-image: url(https://ychef.files.bbci.co.uk/976x549/p0747ktj.jpg);
+    height: 125px;
+    background-size: cover;
+    text-align: center;
+    padding-top: 50px;
+    font-size: 30pt;
+}
+
+#bod{
+    text-align: center;
+
+}
+
+.square{
+    height: 300px;
+    width: 300px;
+    margin: auto;
+    background-color: black;
+    color: white;
+
+}
+
+body{
+    background-color: darkcyan;
+}
